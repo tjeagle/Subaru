@@ -1,0 +1,4 @@
+fastai
+scikit-image
+gradio
+git+https://github.com/huggingface/huggingface_hub
